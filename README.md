@@ -14,7 +14,7 @@
 
 ### ![image](https://github.com/user-attachments/assets/1d5d7abf-074a-4485-92d2-4b8e3cc9ea85)  GameMaker <img src="https://github.com/user-attachments/assets/20513f5d-1d02-4af0-a3d9-19d16224ec24" width="28">
 
-### ![image](https://github.com/user-attachments/assets/1d5d7abf-074a-4485-92d2-4b8e3cc9ea85) LLM & Eng. de Prompt.⋆˙⟡
+### ![image](https://github.com/user-attachments/assets/1d5d7abf-074a-4485-92d2-4b8e3cc9ea85) Engenharia de Software.⋆˙⟡
 
 ## Space Oddity ☆⋆｡𖦹°‧★👽🛸
 "Here am I floating 'round my tin can 
